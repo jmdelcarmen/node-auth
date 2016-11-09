@@ -4,6 +4,7 @@
   "dependencies": {
     "bcrypt-nodejs": "latest",
     "body-parser": "~1.0.0",
+    "connect-ensure-login": "^0.1.1",
     "connect-flash": "~0.1.1",
     "cookie-parser": "~1.0.0",
     "ejs": "~0.8.5",
@@ -13,7 +14,8 @@
     "mongoose": "~3.8.1",
     "morgan": "~1.0.0",
     "nodemon": "^1.11.0",
-    "passport": "~0.1.17",
+    "passport": "^0.1.18",
+    "passport-auth0": "^0.5.2",
     "passport-facebook": "~1.0.2",
     "passport-google-oauth": "~0.1.5",
     "passport-local": "~0.1.6",
